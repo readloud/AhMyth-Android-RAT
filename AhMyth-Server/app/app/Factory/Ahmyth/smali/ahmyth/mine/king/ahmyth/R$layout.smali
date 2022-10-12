@@ -1,6 +1,5 @@
 .class public final Lahmyth/mine/king/ahmyth/R$layout;
 .super Ljava/lang/Object;
-.source "R.java"
 
 
 # annotations
@@ -15,15 +14,25 @@
 
 
 # static fields
-.field public static final activity_main:I = 0x7f030000
+.field public static final activity_main:I = 0x7f070000
+
+.field public static final notification_action:I = 0x7f070001
+
+.field public static final notification_action_tombstone:I = 0x7f070002
+
+.field public static final notification_template_custom_big:I = 0x7f070003
+
+.field public static final notification_template_icon_group:I = 0x7f070004
+
+.field public static final notification_template_part_chronometer:I = 0x7f070005
+
+.field public static final notification_template_part_time:I = 0x7f070006
 
 
 # direct methods
-.method public constructor <init>()V
+.method private constructor <init>()V
     .locals 0
 
-    .prologue
-    .line 27
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
     return-void

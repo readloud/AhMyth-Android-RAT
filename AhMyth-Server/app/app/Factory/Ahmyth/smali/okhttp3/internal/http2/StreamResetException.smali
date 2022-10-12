@@ -12,7 +12,6 @@
     .locals 2
     .param p1, "errorCode"    # Lokhttp3/internal/http2/ErrorCode;
 
-    .prologue
     .line 25
     new-instance v0, Ljava/lang/StringBuilder;
 
