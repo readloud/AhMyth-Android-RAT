@@ -27,7 +27,7 @@ function createWindow() {
     height: 400,
     frame: false,
     transparent: true,
-    icon: __dirname + '/app/assets/img/icon.png',
+    icon: __dirname + '/app/assets/img/icon.ico',
     type: "splash",
     alwaysOnTop: true,
     show: false,
@@ -59,7 +59,7 @@ function createWindow() {
   //------------------------Main SCREEN INIT------------------------------------
   // Create the browser window.
   win = new BrowserWindow({
-    icon: __dirname + '/app/assets/img/icon.png',
+    icon: __dirname + '/app/assets/img/icon.ico',
     width: 800,
     height: 600,
     show: false,
@@ -214,10 +214,10 @@ ipcMain.on('openLabWindow', function (e, page, index) {
   //------------------------Lab SCREEN INIT------------------------------------
   // create the Lab window
   let child = new BrowserWindow({
-    icon: __dirname + '/app/assets/img/icon.png',
+    icon: __dirname + '/app/assets/img/icon.ico',
     parent: win,
-    width: 600,
-    height: 650,
+    width: 700,
+    height: 750,
     darkTheme: true,
     transparent: true,
     resizable: false,
