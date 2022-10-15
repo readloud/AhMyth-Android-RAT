@@ -42,7 +42,7 @@ It consists of two parts :
 ## Video Tutorial
 <p align="center">
 <a href="https://www.youtube.com/watch?v=DDIZTABABzs">
-  <img src="https://img.youtube.com/vi/DDIZTABABzs/0.jpg" width="600"/>
+  <img src="https://static-cse.canva.com/blob/945429/1600w-9ZLVdMYM1Ec.jpg" width="600"/>
 </a></p>
 
 
