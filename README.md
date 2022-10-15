@@ -41,7 +41,7 @@ It consists of two parts :
 
 ## Video Tutorial
 <p align="center">
-<a href="https://www.youtube.com/watch?v=DDIZTABABzs">
+<a href="https://youtu.be/milT_1LraZQ">
   <img src="https://static-cse.canva.com/blob/945429/1600w-9ZLVdMYM1Ec.jpg" width="600"/>
 </a></p>
 
